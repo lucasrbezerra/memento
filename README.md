@@ -4,19 +4,23 @@ This application's main function is to serve as a tool for taking notes, but als
 
 ## Presentations
 
-# Lists
-
-![screen-presentations](https://github.com/lucasrbezerra/react-app-fichas/blob/main/assets/img/screen-presetation.png?raw=true)
-
-
 # Registers
 
-![register-presentations](https://github.com/lucasrbezerra/react-app-fichas/blob/main/assets/img/register-presetation.png)
+![register-presentations](https://github.com/lucasrbezerra/memento/blob/main/assets/img/cadastro.png)
 
+# Lists
 
-# Details and Collected
+![screen-presentations](https://github.com/lucasrbezerra/memento/blob/main/assets/img/lista.png)
 
-![collected-presentations](https://github.com/lucasrbezerra/react-app-fichas/blob/main/assets/img/collected-presentation.png)
+# Details
+
+![collected-presentations](https://github.com/lucasrbezerra/memento/blob/main/assets/img/details.png)
+
+# Reminder
+
+![collected-presentations](https://github.com/lucasrbezerra/memento/blob/main/assets/img/marcar.png)
+
+![collected-presentations](https://github.com/lucasrbezerra/memento/blob/main/assets/img/lembrete.png)
 
 
 ## Getting Started
